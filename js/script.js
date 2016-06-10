@@ -53,7 +53,7 @@
 			
 			//update the countdown's html values.
 			if(!isNaN(eventDate)) {
-				thisEl.find(".days").text(días);
+				thisEl.find(".days").text(days);
 				thisEl.find(".hours").text(hours);
 				thisEl.find(".minutes").text(minutes);
 				thisEl.find(".seconds").text(seconds);
